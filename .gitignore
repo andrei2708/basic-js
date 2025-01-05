@@ -31,10 +31,10 @@ build/Release
 # Dependency directories
 node_modules
 jspm_packages
-.idea
 
 # Optional npm cache directory
 .npm
+.idea
 
 # Optional REPL history
 .node_repl_history
